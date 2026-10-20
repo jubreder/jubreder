@@ -1,4 +1,4 @@
-# oi, eu sou a juliana breder!
+# oi, eu sou a juliana
 
 estudante de **Engenharia de Computação**, criadora e entusiasta da interseção entre **tecnologia, arte e engenharia**.
 
