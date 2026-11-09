@@ -10,7 +10,7 @@ apaixonada por criar e dar vida a ideias, seja explorando possibilidades no dese
 
 alem disso, tenho fascínio pelo desenvolvimento de inteligências artificiais e modelos inteligentes e por programar robôs, máquinas e sistemas embarcados para interagir com o mundo real.
 
-atualmente, estou aprofundando conhecimentos principalmente em **JavaScript**, **Python**, **C** e arquitetura de software, combinando lógica de programação, desenvolvimento de rotinas e resolução prática de problemas.
+atualmente, estou aprofundando conhecimentos principalmente em JavaScript, Python, C e arquitetura de software, combinando lógica de programação, desenvolvimento de rotinas e resolução prática de problemas.
 
 ---
 
